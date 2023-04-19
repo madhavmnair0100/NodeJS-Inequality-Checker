@@ -1,4 +1,4 @@
-//. First you need to insatll readline-sync. To install it go to the file directory and type this in the the prompt nom install readline-sync
+
 
 var npm = require('readline-sync')
 
